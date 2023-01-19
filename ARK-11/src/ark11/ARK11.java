@@ -9,7 +9,7 @@ public class ARK11 {
         int numero1;
         numero1 = Integer.parseInt(JOptionPane.showInputDialog("Digite um numero"));
         int numero2;
-        numero2 = Integer.parseInt(JOptionPane.showInputDialog("Digite um numero"));
+        numero2 = Integer.parseInt(JOptionPane.showInputDialog("Digite um segundo numero"));
         if (numero1 > numero2) {
             System.out.println("O Numero maior é: " + numero1);
         }
@@ -20,5 +20,4 @@ public class ARK11 {
             System.out.println("Os numeros digitados são Igual");
         }
     }
-
 }
