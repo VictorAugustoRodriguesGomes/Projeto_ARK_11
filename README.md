@@ -9,10 +9,10 @@ Ark 11 é um projeto que realiza uma operação lógica, onde o usuário informa
 </br>
 
 <div align="center">
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p1.png?raw=true" width="49.5%"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p2.png?raw=true" width="49.5%"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p3.png?raw=true" width="49.5%"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p4.png?raw=true" width="49.5%"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p1.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p2.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p3.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_11_Java/blob/main/img/projeto/p4.png?raw=true" width="400"/>
 </div>
 
 # Pré-requisitos
